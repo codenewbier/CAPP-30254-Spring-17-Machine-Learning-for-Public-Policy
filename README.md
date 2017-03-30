@@ -18,25 +18,25 @@ This is a hands-on course where students will be expected to use Python to imple
   b. Map to Machine Learning formulation
   c. Understand the Data, Data Exploration, Data Stories
   d. Machine Learning Pipeline Development
-      i. Setup the problem
-      ii. Feature Development
-      iii. Modeling
-      iv. Evaluation
-      v. Deployment
+      - Setup the problem
+      - Feature Development
+      - Modeling
+      - Evaluation
+      - Deployment
 2. Machine Learning Methods
-Supervised
-Regression
-KNN
-Trees
-NN
-SVM
-Random Forests
-Ensemble Methods
-Unsupervised
-Clustering
-Association Rules
-PCA ad related methods
-Semi-Supervised (Not covered in this class)
+  a. Supervised
+      - Regression
+      - KNN
+      - Trees
+      - NN
+      - SVM
+      - Random Forests
+      - Ensemble Methods
+  b. Unsupervised
+      - Clustering
+      - Association Rules
+      - PCA ad related methods
+  c. Semi-Supervised (Not covered in this class)
 3. Feature creation/engineering
 4. Model Selection
 5. Evaluation
