@@ -10,35 +10,3 @@ What role Machine Learning can play in designing, implementing, evaluating, and 
 Machine Learning methods and tools, with a focus on an introduction to supervised and unsupervised methods, practical aspects of how to use them, and building machine learning pipelines using python
 How to solve policy problems using Machine Learning methods and tools
 This is a hands-on course where students will be expected to use Python to implement solutions to various policy problems. We will cover supervised and unsupervised learning algorithms and will learn how to use them for public policy problems in areas such as education, public health, sustainability, economic development, and public safety.
-
-## Topics covered:
-
-1. Overview of the Machine Learning Process
-Understand Problem
-Map to Machine Learning formulation
-Understand the Data, Data Exploration, Data Stories
-Machine Learning Pipeline Development
-      - Setup the problem
-      - Feature Development
-      - Modeling
-      - Evaluation
-      - Deployment
-2. Machine Learning Methods
-Supervised
-      - Regression
-      - KNN
-      - Trees
-      - NN
-      - SVM
-      - Random Forests
-      - Ensemble Methods
-Unsupervised
-      - Clustering
-      - Association Rules
-      - PCA ad related methods
-Semi-Supervised (Not covered in this class)
-3. Feature creation/engineering
-4. Model Selection
-5. Evaluation
-6. Applying these methods to Policy Problems
-
