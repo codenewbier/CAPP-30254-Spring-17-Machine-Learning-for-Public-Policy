@@ -14,17 +14,17 @@ This is a hands-on course where students will be expected to use Python to imple
 ## Topics covered:
 
 1. Overview of the Machine Learning Process
-  a. Understand Problem
-  b. Map to Machine Learning formulation
-  c. Understand the Data, Data Exploration, Data Stories
-  d. Machine Learning Pipeline Development
+Understand Problem
+Map to Machine Learning formulation
+Understand the Data, Data Exploration, Data Stories
+Machine Learning Pipeline Development
       - Setup the problem
       - Feature Development
       - Modeling
       - Evaluation
       - Deployment
 2. Machine Learning Methods
-  a. Supervised
+Supervised
       - Regression
       - KNN
       - Trees
@@ -32,11 +32,11 @@ This is a hands-on course where students will be expected to use Python to imple
       - SVM
       - Random Forests
       - Ensemble Methods
-  b. Unsupervised
+Unsupervised
       - Clustering
       - Association Rules
       - PCA ad related methods
-  c. Semi-Supervised (Not covered in this class)
+Semi-Supervised (Not covered in this class)
 3. Feature creation/engineering
 4. Model Selection
 5. Evaluation
