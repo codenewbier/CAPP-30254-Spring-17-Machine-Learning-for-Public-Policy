@@ -13,17 +13,17 @@ This is a hands-on course where students will be expected to use Python to imple
 
 ## Topics covered:
 
-Overview of the Machine Learning Process
-Understand Problem
-Map to Machine Learning formulation
-Understand the Data, Data Exploration, Data Stories
-Machine Learning Pipeline Development
-Setup the problem
-Feature Development
-Modeling
-Evaluation
-Deployment
-Machine Learning Methods
+1. Overview of the Machine Learning Process
+  a. Understand Problem
+  b. Map to Machine Learning formulation
+  c. Understand the Data, Data Exploration, Data Stories
+  d. Machine Learning Pipeline Development
+      i. Setup the problem
+      ii. Feature Development
+      iii. Modeling
+      iv. Evaluation
+      v. Deployment
+2. Machine Learning Methods
 Supervised
 Regression
 KNN
@@ -37,8 +37,8 @@ Clustering
 Association Rules
 PCA ad related methods
 Semi-Supervised (Not covered in this class)
-Feature creation/engineering
-Model Selection
-Evaluation
-Applying these methods to Policy Problems
+3. Feature creation/engineering
+4. Model Selection
+5. Evaluation
+6. Applying these methods to Policy Problems
 
